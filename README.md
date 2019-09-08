@@ -11,7 +11,7 @@ cd client
 
 npm install
 
-# Run both Express & React from root
+# Run both Express & React from root directory
 
 run your local database(mongodb) 
 
