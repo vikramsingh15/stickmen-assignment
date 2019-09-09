@@ -1,6 +1,8 @@
 
 # stickmen-assignment
 
+url of assignment(https://afternoon-gorge-44357.herokuapp.com)
+
 # Install server dependencies
 
 npm install
@@ -17,8 +19,3 @@ run your local database(mongodb)
 
 npm run dev
 
-# Build for production
-
-cd client 
-
-npm run build
